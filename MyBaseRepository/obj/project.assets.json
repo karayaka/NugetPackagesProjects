@@ -20,6 +20,7 @@
       "outputPath": "/Users/cagrikarayaka/csharp_project/NugetPackagesProjects/MyBaseRepository/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
+        "/Users/cagrikarayaka/csharp_project/NugetPackagesProjects/MyBaseRepository/NuGet.Config",
         "/Users/cagrikarayaka/.nuget/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
@@ -27,7 +28,8 @@
       ],
       "sources": {
         "/usr/local/share/dotnet/library-packs": {},
-        "https://api.nuget.org/v3/index.json": {}
+        "https://api.nuget.org/v3/index.json": {},
+        "https://github.com/karayaka/NugetPackagesProjects/tree/main/MyBaseRepository": {}
       },
       "frameworks": {
         "net8.0": {
