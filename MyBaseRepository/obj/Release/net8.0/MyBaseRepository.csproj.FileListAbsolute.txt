@@ -1,0 +1,11 @@
+/Users/cagrikarayaka/csharp_project/NugetPackagesProjects/MyBaseRepository/bin/Release/net8.0/MyBaseRepository.deps.json
+/Users/cagrikarayaka/csharp_project/NugetPackagesProjects/MyBaseRepository/bin/Release/net8.0/MyBaseRepository.dll
+/Users/cagrikarayaka/csharp_project/NugetPackagesProjects/MyBaseRepository/bin/Release/net8.0/MyBaseRepository.pdb
+/Users/cagrikarayaka/csharp_project/NugetPackagesProjects/MyBaseRepository/obj/Release/net8.0/MyBaseRepository.GeneratedMSBuildEditorConfig.editorconfig
+/Users/cagrikarayaka/csharp_project/NugetPackagesProjects/MyBaseRepository/obj/Release/net8.0/MyBaseRepository.AssemblyInfoInputs.cache
+/Users/cagrikarayaka/csharp_project/NugetPackagesProjects/MyBaseRepository/obj/Release/net8.0/MyBaseRepository.AssemblyInfo.cs
+/Users/cagrikarayaka/csharp_project/NugetPackagesProjects/MyBaseRepository/obj/Release/net8.0/MyBaseRepository.csproj.CoreCompileInputs.cache
+/Users/cagrikarayaka/csharp_project/NugetPackagesProjects/MyBaseRepository/obj/Release/net8.0/MyBaseRepository.dll
+/Users/cagrikarayaka/csharp_project/NugetPackagesProjects/MyBaseRepository/obj/Release/net8.0/refint/MyBaseRepository.dll
+/Users/cagrikarayaka/csharp_project/NugetPackagesProjects/MyBaseRepository/obj/Release/net8.0/MyBaseRepository.pdb
+/Users/cagrikarayaka/csharp_project/NugetPackagesProjects/MyBaseRepository/obj/Release/net8.0/ref/MyBaseRepository.dll
