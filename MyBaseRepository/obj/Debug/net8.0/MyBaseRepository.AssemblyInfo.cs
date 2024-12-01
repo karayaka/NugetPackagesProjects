@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyDescriptionAttribute("Deneeme Pakedi")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c17a8618a4619a67c8929162e3eff01045a9bf7a")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0259e19f559be0d25435461cf5e765f220547bc7")]
 [assembly: System.Reflection.AssemblyProductAttribute("Deneme Pakedi")]
 [assembly: System.Reflection.AssemblyTitleAttribute("MyBaseRepository")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
