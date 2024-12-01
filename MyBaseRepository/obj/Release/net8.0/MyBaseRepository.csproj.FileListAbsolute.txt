@@ -10,3 +10,4 @@
 /Users/cagrikarayaka/csharp_project/NugetPackagesProjects/MyBaseRepository/obj/Release/net8.0/MyBaseRepository.pdb
 /Users/cagrikarayaka/csharp_project/NugetPackagesProjects/MyBaseRepository/obj/Release/net8.0/ref/MyBaseRepository.dll
 /Users/cagrikarayaka/csharp_project/NugetPackagesProjects/MyBaseRepository/obj/Release/net8.0/MyBaseRepository.sourcelink.json
+/Users/cagrikarayaka/csharp_project/NugetPackagesProjects/MyBaseRepository/obj/Release/net8.0/MyBaseRepository.csproj.AssemblyReference.cache

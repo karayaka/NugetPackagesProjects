@@ -12,12 +12,12 @@ using System.Reflection;
 
 [assembly: System.Reflection.AssemblyCompanyAttribute("Çağrı Karayaka")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
-[assembly: System.Reflection.AssemblyDescriptionAttribute("Deneeme Pakedi")]
-[assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0259e19f559be0d25435461cf5e765f220547bc7")]
+[assembly: System.Reflection.AssemblyDescriptionAttribute("Repository Db İşlemri Pakedi")]
+[assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.1.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.1+30d3503c3257cdf5ec5b3584660714d45a795f9e")]
 [assembly: System.Reflection.AssemblyProductAttribute("Deneme Pakedi")]
 [assembly: System.Reflection.AssemblyTitleAttribute("MyBaseRepository")]
-[assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
+[assembly: System.Reflection.AssemblyVersionAttribute("1.0.1.0")]
 [assembly: System.Reflection.AssemblyMetadataAttribute("RepositoryUrl", "https://github.com/karayaka/NugetPackagesProjects/tree/main/MyBaseRepository")]
 
 // MSBuild WriteCodeFragment sınıfı tarafından oluşturuldu.

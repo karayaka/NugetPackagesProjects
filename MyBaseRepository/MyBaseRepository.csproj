@@ -3,13 +3,14 @@
     <TargetFramework>net8.0</TargetFramework>
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
-    <Version>1.0.0</Version>
+    <Version>1.0.1</Version>
     <Authors>Çağrı Karayaka</Authors>
     <Product>Deneme Pakedi</Product>
-    <Description>Deneeme Pakedi</Description>
+    <Description>Repository Db İşlemri Pakedi</Description>
     <PackageLicenseExpression>MIT</PackageLicenseExpression>
     <PackageProjectUrl>https://github.com/karayaka/NugetPackagesProjects/tree/main/MyBaseRepository</PackageProjectUrl>
     <RepositoryUrl>https://github.com/karayaka/NugetPackagesProjects/tree/main/MyBaseRepository</RepositoryUrl>
+    <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
   </PropertyGroup>
   <ItemGroup>
     <PackageReference Include="Microsoft.EntityFrameworkCore" Version="8.0.11" />
