@@ -1,1 +1,1 @@
-dotnet nuget push bin/Release/MyBaseRepository.1.0.1.nupkg -k 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 -s https://nuget.pkg.github.com/karayaka/index.json
+dotnet nuget push bin/Release/MyBaseRepository.1.0.1.nupkg -k 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 -s https://nuget.pkg.github.com/karayaka/index.json
