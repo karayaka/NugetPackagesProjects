@@ -5,7 +5,7 @@
   },
   "projects": {
     "/Users/cagrikarayaka/csharp_project/NugetPackagesProjects/MyBaseRepository/MyBaseRepository.csproj": {
-      "version": "1.0.0",
+      "version": "1.0.1",
       "restore": {
         "projectUniqueName": "/Users/cagrikarayaka/csharp_project/NugetPackagesProjects/MyBaseRepository/MyBaseRepository.csproj",
         "projectName": "MyBaseRepository",
@@ -21,7 +21,8 @@
         ],
         "sources": {
           "/usr/local/share/dotnet/library-packs": {},
-          "https://api.nuget.org/v3/index.json": {}
+          "https://api.nuget.org/v3/index.json": {},
+          "https://nuget.pkg.github.com/karayaka/index.json": {}
         },
         "frameworks": {
           "net8.0": {

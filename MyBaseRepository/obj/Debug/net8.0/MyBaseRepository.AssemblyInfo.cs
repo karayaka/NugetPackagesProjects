@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyDescriptionAttribute("Repository Db İşlemri Pakedi")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.1.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.1+30d3503c3257cdf5ec5b3584660714d45a795f9e")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.1+d84578b87bbe581a2084cb1dc0e40d4aab29d487")]
 [assembly: System.Reflection.AssemblyProductAttribute("Deneme Pakedi")]
 [assembly: System.Reflection.AssemblyTitleAttribute("MyBaseRepository")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.1.0")]

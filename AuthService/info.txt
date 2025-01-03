@@ -1,0 +1,1 @@
+dotnet nuget push bin/Release/AuthService.1.0.0.nupkg -k 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 -s https://nuget.pkg.github.com/karayaka/index.json

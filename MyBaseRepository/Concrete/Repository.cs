@@ -214,7 +214,7 @@ public class Repository(DbContext context, Guid? userId):IRepository
      {
          try
          {
-             return await GetQueryable<T>(t=>t.ID==ID,asNoTracking:true).Select(selector).FirstOrDefaultAsync();
+             return await GetQueryable<T>(t=>t.ID==ID).Select(selector).FirstOrDefaultAsync();
          }
          catch (Exception)
          {
@@ -270,7 +270,7 @@ public class Repository(DbContext context, Guid? userId):IRepository
      {
          try
          {
-             await GetQueryable<T>(where,asNoTracking:true).ExecuteDeleteAsync();
+             await GetQueryable<T>(where).ExecuteDeleteAsync();
          }
          catch (Exception)
          {
@@ -330,7 +330,7 @@ public class Repository(DbContext context, Guid? userId):IRepository
      }
      public async Task<int> UpdateProperties<T>(Expression<Func<T, bool>> query, Expression<Func<SetPropertyCalls<T>, SetPropertyCalls<T>>> properties) where T : BaseModel
      {
-         return await GetQueryable<T>(query,asNoTracking:true).ExecuteUpdateAsync(properties);
+         return await GetQueryable<T>(query).ExecuteUpdateAsync(properties);
      }
 
      public Task<int> UpdateProperties<T>(Guid ID, Expression<Func<SetPropertyCalls<T>, SetPropertyCalls<T>>> properties) where T : BaseModel
